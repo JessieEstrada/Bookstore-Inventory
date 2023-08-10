@@ -8,14 +8,14 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 Link of the video: https://www.youtube.com/watch?v=1S1N901ixLQ
 
 # CONTRIBUTORS
-Jessie Estrada & Zulymar
+Jessie Estrada & Zulymar García
 
 # SETUP (Run application)
 
-* git clone git@github.com:bryanmax9/Game_Store_Complete_App.git
+* git clone https://github.com/JessieEstrada/Bookstore-Inventory.git
 * Using Intellij IDEA enter to this folder that was cloned
-* In GamestoreApplication file do a run application (Make sure that Docker is running)
+* In BookstoreApplication file do a run application (Make sure that Docker is running)
 * When application is running, then enter to "localhost:8080/" in any browser
 
 You will see the page like this displayed:
-<img src="https://i.imgur.com/JO8baY2.jpeg" alt="Wormwhole-Gaming-Banner" width="100%" height="100%">
+<img src="https://i.imgur.com/mbU1Ctj.png" alt="Bookstore-Inventory-System-API" width="100%" height="100%">
