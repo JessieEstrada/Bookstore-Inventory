@@ -17,5 +17,5 @@ Jessie Estrada & Zulymar García
 * In BookstoreApplication file do a run application (Make sure that Docker is running)
 * When application is running, then enter to "localhost:8080/" in any browser
 
-You will see the page like this displayed:
+Below are our different endpoints:
 <img src="https://i.imgur.com/mbU1Ctj.png" alt="Bookstore-Inventory-System-API" width="100%" height="100%">
