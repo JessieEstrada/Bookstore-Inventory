@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/l75pFnp.png" alt="Bookstore-Inventory-System-Banner" width="100%" height="150px">
+<img src="https://i.imgur.com/C8Ai6Lh.png" alt="Bookstore-Inventory-System-Banner" width="100%" height="150px">
 
 # BOOKSTORE INVENTORY SYSTEM API
 Welcome to our Bookstore Inventory System REST API that manages inventory for any bookstore! Our development team has successfully crafted an extensive and entirely operational API designed to emulate the functionalities of a bookstore inventory system. Our users would be able to create, read, update, and delete: books, publishers, and authors. By employing the capabilitites of Spring Boot JPA and Java, we have constructed models, controllers, repositories, a GraphQL, and comprehensive testing to ensure functionality of the API.
