@@ -16,6 +16,3 @@ Jessie Estrada & Zulymar García
 * Using Intellij IDEA enter to this folder that was cloned
 * In BookstoreApplication file do a run application (Make sure that Docker is running)
 * When application is running, then enter to "localhost:8080/" in any browser
-
-Below are our different endpoints:
-<img src="https://i.imgur.com/mbU1Ctj.png" alt="Bookstore-Inventory-System-API" width="100%" height="100%">
